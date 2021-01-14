@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language">
+        <item>Jamie</item>
+        <item>HawaiiFiveO</item>
+        <item>Blair</item>
+        <item>Dexter</item>
+        <item>Dragnet</item>
+        <item>Bobcat</item>
+        <item>Robin</item>
+        <item>Serena</item>
+        <item>Fox</item>
+        <item>Secrid</item>
+    </string-array>
+</resources>
